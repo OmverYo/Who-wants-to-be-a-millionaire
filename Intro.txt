@@ -1,0 +1,8 @@
+This is Justin Lee's "Who wants to be a millionaire".
+You win the game when you reach score of 10.
+You are also given 30 coins to try answering the questions.
+You will lose if you use up all 30 coins.
+Also, you will lose if your answer is incorrect 3 times in a row.
+Please type the number of your chosen answer such as -> 3
+One simple number will do.
+Enjoy!
